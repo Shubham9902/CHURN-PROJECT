@@ -1,0 +1,20 @@
+# Customer Churn Prediction (Python, ML)
+
+## 📌 Business Problem
+Businesses lose revenue due to customer churn but lack visibility into high-risk customers.
+
+## 🔍 Key Insights
+- Built churn model (~82–85% accuracy) identifying customers contributing ~30% potential revenue loss  
+- Low engagement users showed significantly higher churn probability  
+
+## 💡 Business Impact
+- Enabled targeted retention strategies for high-risk segments  
+- Potential to improve retention by ~15–20%  
+
+## ⚙️ Approach
+- Data Cleaning & EDA  
+- Feature Engineering  
+- Logistic Regression & Random Forest  
+
+## 🛠️ Tools Used
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
